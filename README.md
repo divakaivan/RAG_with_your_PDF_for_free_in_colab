@@ -6,3 +6,4 @@
 
 Any feedback is appreciated. 
 
+Inspired by [RAG with huggingface](https://huggingface.co/learn/cookbook/en/rag_with_hugging_face_gemma_mongodb) and [pdf_rag_from_scratch](https://github.com/divakaivan/pdf-rag-from-scratch)
